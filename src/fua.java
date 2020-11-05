@@ -9,7 +9,7 @@ public class fua {
     public static void bast(int erik, int eimer) {
     if (erik >eimer)
         {
-            System.out.println("Knuten > Erik > Kvalle > Escape > Maskin > Florran");
+            System.out.println("Knutens kaktus är större än Kvalles");
         }
     }
 
