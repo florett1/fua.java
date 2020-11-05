@@ -10,7 +10,7 @@ public class fua {
     if(erik >eimer)
 
     {
-        System.out.println("wong wong you have a little dong");
+        System.out.println("wong wong Eimer have a little dong");
     }
 }
 }
