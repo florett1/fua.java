@@ -12,4 +12,8 @@ public class fua {
             System.out.println("Knuten > Erik > Kvalle > Escape > Maskin > Florran");
         }
     }
+
+    void hej() {
+        System.out.println("adf");
+    }
 }
