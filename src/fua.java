@@ -12,4 +12,11 @@ public class fua {
             System.out.println("Knuten > Erik > Kvalle > Escape > Maskin > Florran");
         }
     }
+
+    public void sanningen() {
+        System.out.println("rolf");
+    }
+    public void osan() {
+        System.out.println("rolf");
+    }
 }
