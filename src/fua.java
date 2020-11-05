@@ -6,11 +6,10 @@ public class fua {
         int eimer = 0;
         bast(erik, eimer);
     }
-
     public static void bast(int erik, int eimer) {
     if (erik >eimer)
         {
-            System.out.println("knuten är puckoprogrammering");
+            System.out.println("Knuten > Erik > Kvalle > Escape > Maskin > Florran");
         }
     }
 }
